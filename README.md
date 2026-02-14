@@ -36,7 +36,6 @@ Posted by zjffdu, modified by community. See post 'Timeline' for change history
 Retrieved 2026-02-15, License - CC BY-SA 4.0
 -->
 
-![Alt Text](data\tarizzlogo.ico)
 
 
 
