@@ -36,7 +36,8 @@ Posted by zjffdu, modified by community. See post 'Timeline' for change history
 Retrieved 2026-02-15, License - CC BY-SA 4.0
 -->
 
-![image]("C:\Users\Varizz\Downloads\tarizzlogo.png")
+![Alt Text](data\tarizzlogo.ico)
+
 
 
 Tarizz combines the power of:
