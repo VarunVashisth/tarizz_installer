@@ -30,15 +30,6 @@
 
 ### What is Tarizz?
 
-<!--
-Source - https://stackoverflow.com/q/41604263
-Posted by zjffdu, modified by community. See post 'Timeline' for change history
-Retrieved 2026-02-15, License - CC BY-SA 4.0
--->
-
-
-
-
 Tarizz combines the power of:
 - 📝 **Rich Text Editor** - Format text with bold, italic, underline, highlighting, custom fonts & sizes
 - 📊 **Flowchart Editor** - Create visual diagrams and flowcharts for your projects
